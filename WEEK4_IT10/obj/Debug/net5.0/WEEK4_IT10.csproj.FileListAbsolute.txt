@@ -1,0 +1,15 @@
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\bin\Debug\net5.0\WEEK4_IT10.exe
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\bin\Debug\net5.0\WEEK4_IT10.deps.json
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\bin\Debug\net5.0\WEEK4_IT10.runtimeconfig.json
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\bin\Debug\net5.0\WEEK4_IT10.runtimeconfig.dev.json
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\bin\Debug\net5.0\WEEK4_IT10.dll
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\bin\Debug\net5.0\WEEK4_IT10.pdb
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\obj\Debug\net5.0\WEEK4_IT10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\obj\Debug\net5.0\WEEK4_IT10.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\obj\Debug\net5.0\WEEK4_IT10.AssemblyInfo.cs
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\obj\Debug\net5.0\WEEK4_IT10.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\obj\Debug\net5.0\WEEK4_IT10.dll
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\obj\Debug\net5.0\refint\WEEK4_IT10.dll
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\obj\Debug\net5.0\WEEK4_IT10.pdb
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\obj\Debug\net5.0\WEEK4_IT10.genruntimeconfig.cache
+C:\Users\Artur\source\repos\WEEK4_IT10\WEEK4_IT10\obj\Debug\net5.0\ref\WEEK4_IT10.dll
