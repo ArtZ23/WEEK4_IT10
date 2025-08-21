@@ -1,14 +1,11 @@
 ﻿using System;
 
-namespace WEEK4_IT10
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        } 
+Console.WriteLine("Hello World!");
+Console.WriteLine("Hello C#");
 
 
-    }
-}
+Console.WriteLine("    / |");
+Console.WriteLine("   /  |");
+Console.WriteLine("  /   |");
+Console.WriteLine(" /    |");
+Console.WriteLine("/_ _ _|");
