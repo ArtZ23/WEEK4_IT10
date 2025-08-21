@@ -11,4 +11,6 @@ Console.WriteLine("  /   |");
 Console.WriteLine(" /    |");
 Console.WriteLine("/_ _ _|");
 
+Console.WriteLine("Test");
+
 Console.Title = "My C# Program";
